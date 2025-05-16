@@ -19,8 +19,10 @@ python bode.py
 ```
 Run with signal generator
 ```
-python <device id>
+python bode.py <device id>
 ```
+For my rigol device this is: USB0::0x1AB1::0x0643::DG8A220300107::INSTR
+
 Retrieve devices:
 ```
 python list_devices.py
