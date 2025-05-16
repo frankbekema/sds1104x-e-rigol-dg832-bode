@@ -1,6 +1,8 @@
 # sds1104x-e-rigol-dg832-bode
 SDS1104X-E bode plot with Rigol DG832 function generator, based on https://uuki.kapsi.fi/sds1104bode.html
 
+Install UltraSigma (Instrument Connectivity Driver) from https://www.rigolna.com/products/waveform-generators/dg800/?srsltid=AfmBOoosuh0qzyOOvC4efaW1lefd1NyxCCBAJEkq2YHabCMBlVTw6ZMq.
+
 Create venv:
 ```
 python -m venv env
