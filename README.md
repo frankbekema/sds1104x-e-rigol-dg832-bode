@@ -25,5 +25,3 @@ Retrieve devices:
 ```
 python list_devices.py
 ```
-
-Inspired by: https://uuki.kapsi.fi/sds1104bode.html
